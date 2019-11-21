@@ -1,24 +1,27 @@
-# README
+# Api Test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby Version : 2.5.1 
 
-Things you may want to cover:
+* Rails version : 5.2.3
 
-* Ruby version
+# Gems
 
-* System dependencies
+* Devise
 
-* Configuration
+* Simple Token Authentication
 
-* Database creation
+* Active Model Serializer
 
-* Database initialization
+* For signup 
 
-* How to run the test suite
+* localhost:3000/api/v1/sign_up
 
-* Services (job queues, cache servers, search engines, etc.)
+* For sign_in
 
-* Deployment instructions
+* localhost:3000/api/v1/sign_in
 
-* ...
+* For List of users
+
+* localhost:3000/api/v1/users
+
+
